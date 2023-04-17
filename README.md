@@ -1,3 +1,3 @@
 # passbreak
-Czesc
+Czesc /newline
 siema
